@@ -1,3 +1,3 @@
 Hi! I am Akash
 
-![](Photo - Akash.jpg =100x200)
+![](Photo - Akash.jpg =100x100)
