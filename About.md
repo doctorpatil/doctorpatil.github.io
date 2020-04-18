@@ -1,5 +1,4 @@
-[About](README.md) [Research](README.md) [Publications](README.md) [Projects](README.md) [Resources](README.md)
-
+[About](About.md) [Research](Research.md) [Publications](Publications.md) [Projects](Projects.md) [Resources](Resources.md)
 
 
 Hi, I am Akash!
